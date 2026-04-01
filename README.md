@@ -141,6 +141,7 @@ streamlit run main.py
 * The dataset is not included in the repository.
 * Make sure to properly configure the `functions.py` file to load your data.
 * Filters (category, gender, state, and date range) dynamically update all visualizations besides in the fraud page.
+* The loading of the data may be slow at first, since is being uploaded from Hugging Faces
 
 ---
 
