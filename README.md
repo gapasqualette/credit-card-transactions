@@ -113,7 +113,7 @@ The goal is to uncover consumption patterns, identify behavioral trends, and det
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/gapasqualette/credit-card-transactions.git
 ```
 
 2. Navigate to the project folder:
