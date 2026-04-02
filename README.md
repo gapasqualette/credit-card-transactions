@@ -119,7 +119,7 @@ git clone https://github.com/gapasqualette/credit-card-transactions.git
 2. Navigate to the project folder:
 
 ```
-cd your-repo
+cd credit-card-transactions
 ```
 
 3. Install dependencies:
